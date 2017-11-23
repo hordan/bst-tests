@@ -1,4 +1,4 @@
-const BST = require('../index');
+const BST = require('../bst');
 const { BinarySearchTree, root, left, right, student } = BST;
 
 describe(`Binary Search Tree. Student: ${student}`, () => {
